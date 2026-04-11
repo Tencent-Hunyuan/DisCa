@@ -16,13 +16,13 @@ Zhao Zhong,
 Kailin Huang,
 [Linfeng Zhang](https://zhanglinfeng.tech)<sup>†</sup>
 
-<a href="https://arxiv.org/abs/2602.05449" target="_blank"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.20423-B31B1B?logo=arxiv&logoColor=white" height="25"/></a>
+<a href="https://arxiv.org/abs/2602.05449" target="_blank"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.05449-B31B1B?logo=arxiv&logoColor=white" height="25"/></a>
 <a href="#citation"><img alt="Citation" src="https://img.shields.io/badge/Citation-BibTeX-6C63FF?logo=bookstack&logoColor=white" height="25"/></a>
-
+<a href="https://huggingface.co/Tencent/DisCa" target="_blank"><img alt="HuggingFace Models" src="https://img.shields.io/badge/huggingface-DisCa-f0c542?logo=huggingface&logoColor=white" height="25"/></a>
 </div>
 
 
-## 📑 OverView
+## 📑 Overview
 ![Heading](assets/imgs/DisCa_Heading.png)
 > **<p align="justify"> Abstract:** *While diffusion models have achieved great success in the field of video generation, this progress is accompanied by a rapidly escalating computational burden.
 Among the existing acceleration methods, Feature Caching is popular due to its training-free property and considerable speedup performance,but it inevitably faces semantic and detail drop with further compression. Another widely adopted method, training-aware step-distillation, though successful in image generation, also faces drastic degradation in video generation with a few steps. Furthermore, the quality loss becomes more severe when simply applying training-free feature caching to the step-distilled models, due to the sparser sampling steps. 
@@ -35,7 +35,8 @@ This paper novelly introduces a **distillation-compatible learnable** feature ca
 ## 🛠 Installation
 
 ``` bash
-git clone https://github.com/Shenyi-Z/TaylorSeer.git
+git clone https://github.com/Tencent-Hunyuan/DisCa.git
+cd DisCa
 ```
 
 ## 🪐 Experiments
