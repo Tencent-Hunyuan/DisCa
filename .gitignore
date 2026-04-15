@@ -137,7 +137,7 @@ outputs/
 *.ckpt
 
 # Generated videos and images
-*.mp4
+#*.mp4
 *.avi
 *.mov
 *.gif

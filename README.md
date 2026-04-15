@@ -30,7 +30,25 @@ This paper novelly introduces a **distillation-compatible learnable** feature ca
 
 ## ✏️ Technical Details
 ![Tech Details](assets/imgs/DisCa_Pipeline.png)
-> **<p align="justify"> See more details in the paper.** </p>
+> <p align="justify">(a) The inference procedure under the proposed Learnable Feature Caching framework. The lightweight Predictor P performs multi-step fast inference after a single computation pass through the large-scale DiT M. (b) The training process of Predictor. The cache, initialized by the DiT, is fed into the Predictor as part of the input. The outputs of the Predictor and DiT are passed to the discriminator D, alternating between the objectives of maximizing and minimizing $L_D$ as part of the adversarial game. (c) The lightweight Predictor with two DiT Blocks, typically constitutes less than 4% of the total size of the DiT, enabling high-speed and accurate inference. (d) The Restricted MeanFlow is constructed primarily by pruning the components with a high compression ratio in the original MeanFlow, thereby facilitating the learning of the local mean velocity. </p>
+
+## 🧐 Visualizations
+
+### [HunyuanVideo1.5-i2v] DisCa
+
+<div align="center">
+  <video src="assets/videos/noodles-4steps_comparison.mp4" controls width="100%"></video>
+</div>
+
+<div align="center">
+  <video src="assets/videos/faires-4steps.mp4" controls width="100%"></video>
+</div>
+
+### [HunyuanVideo1.0-t2v] Restricted MeaanFlow
+
+<div align="center">
+  <video src="assets/videos/r-meanflow.mp4" controls width="100%"></video>
+</div>
 
 ## 🛠 Installation
 
