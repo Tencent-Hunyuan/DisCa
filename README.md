@@ -63,8 +63,8 @@ cd DisCa
 The experiments for the Text-to-Video task are conducted on **HunyuanVideo-1.0**. Given that the original project does not provide inference scripts for MeanFlow, we have supplemented them in this project. 
 
 We provide two scripts to implement the proposed methods:
-* `infer_r_meanflow.sh` for **Restricted MeanFlow**
-* `infer_disca.sh` for **DisCa**
+* `disca_t2v_hyvideo10/infer_r_meanflow.sh` for **Restricted MeanFlow**
+* `disca_t2v_hyvideo10/infer_disca.sh` for **DisCa**
 
 The environment setup follows the official HunyuanVideo-1.0 configuration. We have enabled command-line argument passing; you can modify these arguments directly within the bash files or execute them via the command line.
 
@@ -75,7 +75,7 @@ Since the Image-to-Video task inherently possesses stronger control signals and 
 
 **Getting Started:**
 1. Follow the instructions in [`disca_i2v_hyvideo15/README.md`](disca_i2v_hyvideo15/README.md) to quickly set up the environment and configure the code.
-2. Execute the inference directly using `infer_disca.sh`.
+2. Execute the inference directly using `disca_i2v_hyvideo15/infer_disca.sh`.
 
 **Restricted MeanFlow Component:**
 For the corresponding Restricted MeanFlow component, you can use the [HunyuanVideo-1.5-480P-I2V-step-distill](https://huggingface.co/tencent/HunyuanVideo-1.5/tree/main/transformer/480p_i2v_step_distilled) model provided in the official HunyuanVideo-1.5 repository. This model is distilled using similar techniques and has undergone further optimization.
