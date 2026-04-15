@@ -37,17 +37,17 @@ This paper novelly introduces a **distillation-compatible learnable** feature ca
 ### [HunyuanVideo1.5-i2v] DisCa
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/160aa932-2960-4b52-8213-a87454bd936a" width="100%"> </video>
+  <video src="https://github.com/user-attachments/assets/8e249c1f-7fd3-4982-b954-d93130c507a9" width="100%"> </video>
 </div>
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/5ace9419-1cc7-4d02-9d1b-b7207b689ebc" width="100%"> </video>
+  <video src="https://github.com/user-attachments/assets/74d72f47-2c76-4dcf-9da2-01d51d2deaeb" width="100%"> </video>
 </div>
 
 ### [HunyuanVideo1.0-t2v] Restricted MeanFlow
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/fcd1717e-7b80-456c-ab24-214b28999085" width="100%"> </video>
+  <video src="https://github.com/user-attachments/assets/bd1c7067-7655-4bff-b48b-130e12bfd762" width="100%"> </video>
 </div>
 
 ## 🛠 Installation
