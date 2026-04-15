@@ -37,29 +37,17 @@ This paper novelly introduces a **distillation-compatible learnable** feature ca
 ### [HunyuanVideo1.5-i2v] DisCa
 
 <div align="center">
-  <a href="https://github.com/Tencent-Hunyuan/DisCa/releases/download/visualization-assets-20260415/noodles-4steps.mp4">Open video</a>
+  <video src="https://github.com/user-attachments/assets/160aa932-2960-4b52-8213-a87454bd936a" width="100%"> </video>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Tencent-Hunyuan/DisCa/releases/download/visualization-assets-20260415/noodles-4steps.mp4">Download video</a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Tencent-Hunyuan/DisCa/releases/download/visualization-assets-20260415/faires-4steps.mp4">Open video</a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Tencent-Hunyuan/DisCa/releases/download/visualization-assets-20260415/faires-4steps.mp4">Download video</a>
+  <video src="https://github.com/user-attachments/assets/4296c2d0-4507-4af4-b823-8922081e20b7" width="100%"> </video>
 </div>
 
 ### [HunyuanVideo1.0-t2v] Restricted MeanFlow
 
 <div align="center">
-  <a href="https://github.com/Tencent-Hunyuan/DisCa/releases/download/visualization-assets-20260415/r-meanflow.mp4">Open video</a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Tencent-Hunyuan/DisCa/releases/download/visualization-assets-20260415/r-meanflow.mp4">Download video</a>
+  <video src="https://github.com/user-attachments/assets/fcd1717e-7b80-456c-ab24-214b28999085" width="100%"> </video>
 </div>
 
 ## 🛠 Installation
