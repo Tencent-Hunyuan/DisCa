@@ -41,7 +41,7 @@ This paper novelly introduces a **distillation-compatible learnable** feature ca
 </div>
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/4296c2d0-4507-4af4-b823-8922081e20b7" width="100%"> </video>
+  <video src="https://github.com/user-attachments/assets/5ace9419-1cc7-4d02-9d1b-b7207b689ebc" width="100%"> </video>
 </div>
 
 ### [HunyuanVideo1.0-t2v] Restricted MeanFlow
